@@ -104,10 +104,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: black;
     /* background-repeat: repeat; */
 }
-p{
-  font-size: 20vw;
+img{
+  width: 80vw;
+  max-width: 429px;
 }
 
 .title-image {
